@@ -1,0 +1,4 @@
+const DIFFICULTY = 5;
+const MINE_RATE = 3000;
+//000000000ed962e1b77fcd47c5deab249f1adb1069195cbcd6cd77f2679e791b
+module.exports = { DIFFICULTY,MINE_RATE };
